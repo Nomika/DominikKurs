@@ -1,0 +1,119 @@
+
+body {
+    color: grey;
+}body {
+    background-color: lightgray;
+}
+.section1Color {
+    background-color: white;
+    margin: 30px 30px;
+    height: 100%;
+}
+body p.homepage {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    margin-top: 2%;
+    margin-left: 45%;
+}
+.logo {
+margin-top: 20px;
+font-weight: bold;
+font-family: 'inconsolata', monospace;
+font-size: 30px;
+float: left;
+}
+
+.links {
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+}
+.dzieci {
+    width: 90%;
+    height: 83%;
+   margin-right: 15%;
+}
+section h6 {
+    font-family: 'Ubuntu-light', sans-serif;
+    font-size: 14px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+section h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+section p {
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+ 
+}
+.justify {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+section h5 {
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    margin-top: 30px;
+}
+section h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+.rzad {
+    width: 400px;
+    height: 350px;
+}
+
+.przerwa {
+height: 150px;
+}
+.pprzerwa {
+  margin-left: 35%;
+  margin-bottom: 40px;
+  font-size: 34px;
+  font-family: 'Ubuntu', sans-serif;
+}
+.p1przerwa {
+    margin-left: 35%;
+  }
+.ppprzerwa {
+    margin-left: 19%;
+
+  }
+.button {
+    width: 150px;
+    height: 70px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    background-color: white;
+    margin-left: 45%;
+    margin-bottom: 30px;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+.stopkaLeft {
+    float: left;
+    margin-left: 2%;
+
+}
+.stopkaRight {
+    float: right;
+    margin-right: 2%;
+}
+hr {
+    width: 420px;
+    height: 0.3px;
+    margin-left: 35%;
+    background-color: black;
+}
+.imgMale {
+width: 80%;
+height: 60%;
+}
+
+

@@ -1,0 +1,119 @@
+
+body {
+    width: 1200px;
+    height: 5027px;
+    margin: auto;
+
+}
+.navbar {
+    margin: auto;
+}
+.logo {
+margin-top: 20px;
+font-weight: bold;
+font-family: 'inconsolata', monospace;
+font-size: 30px;
+float: left;
+}
+
+.links {
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+}
+.panie {
+    margin: auto; 
+}
+section h6 {
+    font-family: 'Ubuntu-light', sans-serif;
+    font-size: 14px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+section h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+section p {
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    margin: auto;
+    
+}
+.sekcja {
+        font-family: 'Playfair Display', serif;
+        font-size: 14px;
+        margin: auto;
+        width: 900px;
+    }
+}
+.row {
+    margin: auto;
+}
+
+section h5 {
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    
+}
+section h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+.przerwa {
+height: 282px;
+background-color: rgb(240,240,240);
+}
+.pprzerwa {
+  margin-left: 35%;
+  margin-bottom: 40px;
+  font-size: 34px;
+  font-family: 'Myriad Pro', sans-serif;
+}
+.p1przerwa {
+    margin-left: 35%;
+  }
+.ppprzerwa {
+    margin-left: 19%;
+
+  }
+.button {
+    width: 150px;
+    height: 70px;
+    border: 1px solid rgb(201,220,215);
+    border-radius: 3px;
+    background-color: white;
+    margin-left: 45%;
+    margin-bottom: 30px;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+.stopka {
+    background-color: rgb(240,240,240);
+    height: 100px;
+}
+.stopkaLeft {
+    float: left;
+    margin-left: 2%;
+
+}
+.stopkaRight {
+    float: right;
+    margin-right: 2%;
+}
+hr {
+    width: 420px;
+    height: 0.3px;
+    margin-left: 35%;
+    background-color: rgb(40, 40, 40);
+}
+
+.img {
+    width: 415px;
+    height: 282px;
+}
+
